@@ -62,11 +62,6 @@ data.map(a=>d.push(a.item))
   </div>
 </div>
 
-        {/* <select name="all" value={sortType} onChange={(e)=>setSortType(e.target.value)}>
-  <option value='all' >all</option>
-  <option value='active'>active</option>
-  <option value='disable' >disable</option>
-</select> */}
 
 
          <ul>

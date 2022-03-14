@@ -43,7 +43,6 @@
   text-decoration: none;
   display: flex;
   width: 100%;
-  /* cursor: pointer; */
   border: none;
 }
 
@@ -63,14 +62,7 @@ select{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   flex-direction: column;
-  /* align-items: center; */
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin); */
   color: white;
 }
 
@@ -90,7 +82,6 @@ padding: 0 30px;
   color: #fff;
   display: flex;
   align-items: center;
-  /* padding: 2px; */
   justify-content: space-between;
 }
 
@@ -169,16 +160,7 @@ ul{
   list-style: none;
 }
 li{
- 
- 
-  /* margin: 20px auto; */
-  /* column-rule: ; */
-  /* align-items: center; */
-  /* justify-content:space-around ; */
-  /* width: 60vw; */
-  /* padding: 10px; */
   display: flex;
-  /* grid-template-columns: repeat(5,1fr); */
   align-items:center;
   justify-content:space-between;
   
@@ -202,11 +184,7 @@ li .del{
   text-align: left;
   padding-left: 10px;
 }
-/* li div{
-  width: 25%;
-  border: 1px solid red;
-  text-align: left;
-} */
+
 li div input{
   margin-right: 15px;
 }
@@ -218,22 +196,3 @@ li div button{
 }
 
 
-/* .div-table {
-  display: table;         
-  width: auto;         
-  background-color: #eee;         
-  border: 1px solid #666666;         
-  border-spacing: 5px;
-}
-.div-table-row {
-  display: table-row;
-  width: auto;
-  clear: both;
-  
-}
-.div-table-col {
-  float: left; 
-  display: table-cell;         
-  width: 200px;         
-  background-color: gray;  
-} */
